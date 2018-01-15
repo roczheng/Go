@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;kafka-consumer-assist-demo&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../SortMethod/src/algorithm" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../SortMethod/src/algorithm" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
